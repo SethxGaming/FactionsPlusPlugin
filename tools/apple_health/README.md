@@ -40,8 +40,11 @@ Then open `dashboard.html` in any browser.
 Or in one step:
 
 ```bash
-./run.sh ~/Downloads/export.zip
+bash run.sh ~/Downloads/export.zip
 ```
+
+(`run.sh` is checked in without the executable bit, so call it via `bash`, or
+`chmod +x run.sh` once and use `./run.sh` after that.)
 
 ## What it reads
 
