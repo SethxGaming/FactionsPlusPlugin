@@ -1,0 +1,8 @@
+# Personal health data must never be committed.
+health.json
+*.html
+export.xml
+export.zip
+fixture_export.xml
+fixture.json
+apple_health_export/
